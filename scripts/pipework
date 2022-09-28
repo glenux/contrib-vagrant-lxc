@@ -390,7 +390,7 @@ else
       ;;
     "")
       if installed ipcalc; then
-        eval $(ipcalc -b $IPADDR)
+        eval "$(ipcalc -b $IPADDR)"
         ip netns exec "$NSPID" ip addr add "$IPADDR" brd "$BROADCAST" dev "$CONTAINER_IFNAME"
       else
         ip netns exec "$NSPID" ip addr add "$IPADDR" dev "$CONTAINER_IFNAME"
