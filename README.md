@@ -1,8 +1,8 @@
-# :warning: PROJECT UNMAINTAINED :warning:
+We plan to support and maintain vagrant-lxc, as well as clean it up.
 
-This project has been archived. Thanks a lot to everyone that contributed itwith over the years :heart:
+Please feel free to contribute Issues and pull requests.
 
-If anyone else wants to resurrect it please reach out by emails!
+P.S: Thanks Fabio Rehm for the amazing initial project.
 
 # vagrant-lxc
 
