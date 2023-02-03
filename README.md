@@ -1,5 +1,5 @@
 :rotating_light: The project has moved to a self-hosted git instance!<br/>
-:rotating_light: Please use the new URL for an up-to-date version: https://code.apps.glenux.net/glenux/git-timecost
+:rotating_light: Please use the new URL for an up-to-date version: https://code.apps.glenux.net/glenux-contrib/vagrant-lxc
 
 🟢 We plan to support and maintain vagrant-lxc, as well as clean it up.<br/>
 🟢 Please feel free to contribute Issues and pull requests.<br/>
