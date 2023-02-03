@@ -1,3 +1,9 @@
+# :warning: PROJECT UNMAINTAINED :warning:
+
+This project has been archived. Thanks a lot to everyone that contributed itwith over the years :heart:
+
+If anyone else wants to resurrect it please reach out by emails!
+
 # vagrant-lxc
 
 [![Build Status](https://travis-ci.org/fgrehm/vagrant-lxc.png?branch=master)](https://travis-ci.org/fgrehm/vagrant-lxc) [![Gem Version](https://badge.fury.io/rb/vagrant-lxc.png)](http://badge.fury.io/rb/vagrant-lxc) [![Code Climate](https://codeclimate.com/github/fgrehm/vagrant-lxc.png)](https://codeclimate.com/github/fgrehm/vagrant-lxc) [![Coverage Status](https://coveralls.io/repos/fgrehm/vagrant-lxc/badge.png?branch=master)](https://coveralls.io/r/fgrehm/vagrant-lxc) [![Gitter chat](https://badges.gitter.im/fgrehm/vagrant-lxc.png)](https://gitter.im/fgrehm/vagrant-lxc)
@@ -8,10 +14,6 @@ This is a Vagrant plugin that allows it to control and provision Linux Container
 as an alternative to the built in VirtualBox provider for Linux hosts. Check out
 [this blog post](http://fabiorehm.com/blog/2013/04/28/lxc-provider-for-vagrant/)
 to see it in action.
-
-## Help Needed!
-
-This project is looking for maintainers, please see [GH-375](https://github.com/fgrehm/vagrant-lxc/issues/375) for more.
 
 ## Features
 
