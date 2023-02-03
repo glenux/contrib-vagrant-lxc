@@ -1,8 +1,6 @@
-We plan to support and maintain vagrant-lxc, as well as clean it up.
-
-Please feel free to contribute Issues and pull requests.
-
-P.S: Thanks Fabio Rehm for the amazing initial project.
+🟢 We plan to support and maintain vagrant-lxc, as well as clean it up.
+🟢 Please feel free to contribute Issues and pull requests.
+🟢 P.S: Thanks Fabio Rehm for the amazing initial project.
 
 # vagrant-lxc
 
